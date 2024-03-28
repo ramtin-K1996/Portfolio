@@ -11,7 +11,7 @@ Link To Website:
 <br>
 <br>
 <h2 align="center"> Browsing </h2> 
-<p align="center"> <img src=https://github.com/ramtin-K1996/Portfolio/blob/main/gifs/browse.gif?raw=true  width="500" height="350"/>    <img src=https://github.com/ramtin-K1996/Portfolio/blob/main/gifs/menu.gif?raw=true  width="500" height="350"/>              </p> 
+<p align="center"> <img src=https://github.com/ramtin-K1996/Portfolio/blob/main/gifs/browse.gif?raw=true  width="500" height="340"/>    <img src=https://github.com/ramtin-K1996/Portfolio/blob/main/gifs/menu.gif?raw=true  width="500" height="340"/>              </p> 
 <br>
 <h2 align="center"> Contact </h2> 
 <p align="center"> <img src=https://github.com/ramtin-K1996/Portfolio/blob/main/gifs/contact.gif?raw=true  width="600" height="350"/></p> 
